@@ -1,2 +1,2 @@
-# multi-datalist
-A React datalist input with multiple selection (loosely based on Google search bar)
+# multilist
+A React datalist input with optional multiple selection (loosely based on Google search bar)
